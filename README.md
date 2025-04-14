@@ -1,6 +1,6 @@
-# nrtk-caddy Docker image
+# nrtk-client-python
 
-This is the source code of the [nrtk-caddy](https://hub.docker.com/r/michaelageev/nrtk-sync) Docker image in [compose.yml](../compose.yml).
+This is the source code of Newsroom Toolkit Python client.
 
 [main.py](main.py) synchronizes Newsroom Toolkit instance content via Newsroom Toolkit API and stores local snapshot.
 
