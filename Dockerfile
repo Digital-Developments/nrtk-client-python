@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.21.3
 
 LABEL app.nrtk-client-python.vendor="Digital Developments"
 LABEL app.nrtk-client-python.version="0.1"
