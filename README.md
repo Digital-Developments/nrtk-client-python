@@ -1,4 +1,4 @@
-# nrtk-client-python
+# Newsroom Toolkit Python Client 
 
 This is the source code of Newsroom Toolkit Python client.
 
